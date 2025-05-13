@@ -1,2 +1,2 @@
-# civiliansauce.github.io
-a website host
+## civiliansauce.github.io
+A website that hosts hyperlinks for my own.
