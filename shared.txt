@@ -11,5 +11,5 @@ Google Play Links
    https://play.google.com/store/apps/details?id=com.iudesk.android.photo.editor
 
 4. AutoClicker (TrueDevelopersStudio)
-
+   
 https://play.google.com/store/apps/details?id=com.truedevelopersstudio.automatictap.autoclicker
